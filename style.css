@@ -1,0 +1,72 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 1170px;
+    margin: 0 auto;
+}
+.tiziq{
+    width: 1170px;
+    height: 1px;
+    border: 0.5px;
+    background-color: #b3b3b3;
+    margin-top: 70px;
+    margin-bottom: 80px;
+}
+.bir{
+    display: flex;
+    gap: 16px;
+    color: #DB4444;
+}
+.bir p{
+    font-weight: 600;
+    margin-top: 10px;
+}
+.ikki p{
+    width: 379px;
+    height: 48px;
+    font-weight: 600;
+    line-height: 48px;
+    font-size: 36px;
+}
+.ikki{
+    display: flex;
+    margin-bottom: 60px;
+}
+.ikki :nth-child(2){
+    margin-left: 691px;
+}
+.card{
+    width: 170px;
+    height: 145px;
+    /* padding: 25px 56px 24px 55px; */
+    border-radius: 4px;
+    border: 1px solid #000;
+}
+.card img{
+    margin-top:25px;
+    margin-left: 57px;
+}
+.card p{
+    margin-top:16px;
+    margin-left:58px;
+}
+.uch{
+    display: flex;
+    gap: 30px;
+}
+.all{
+    width:159px;
+    height:56px;
+    border: 0px;
+    cursor: pointer;
+    border-radius: 4px;
+    margin-top: 50px;
+    background-color: #DB4444;
+}
+.cardd{
+    width:270px;
+    height:350px;
+}
