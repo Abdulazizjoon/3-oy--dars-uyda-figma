@@ -88,12 +88,13 @@ body{
     top: 963px;
  }
  .coat{
-    width: 118px;
+    width: 196px;
     height: 24px;
     font-weight: 500;
     font-size: 19px;
     margin: 0;
     margin-bottom: 8px;
+    margin-top: 16px;
  }
  .tepa :nth-child(1){
     width: 190px;
@@ -103,5 +104,12 @@ body{
  }
  .price{
     margin: 0;
+    color: #DB4444;
     margin-bottom: 8px;
  }
+ .green{
+    font-weight: 600;
+    line-height: 20px;
+    color: #00FF66;
+ }
+ 
