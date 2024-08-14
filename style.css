@@ -70,3 +70,9 @@ body{
     width:270px;
     height:350px;
 }
+.tepa{
+    width: 270px;
+    height: 250px;
+    border-radius: 4px;
+    background-color: #F5F5F5;
+}
